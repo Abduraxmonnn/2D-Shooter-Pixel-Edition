@@ -2192,6 +2192,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8282131552441171989, guid: fd821cc36f666d54592388e02f75fcb5, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8282131552441171991, guid: fd821cc36f666d54592388e02f75fcb5, type: 3}
       propertyPath: m_Name
       value: StraightShooter
@@ -2608,8 +2612,8 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 825064436}
-  - {fileID: 1496789832}
   - {fileID: 1854680025}
+  - {fileID: 1496789832}
   - {fileID: 540515786}
   - {fileID: 3787861896939483412}
   - {fileID: 3777248995106899777}
